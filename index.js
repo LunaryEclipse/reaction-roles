@@ -2,7 +2,7 @@ const express = require("express")
 const app = express()
 
 app.get("/", (req, res) => {
-  res.send("hello")
+  res.send("join discord.gg/lunary for help!")
 })
 
 app.listen(3000, () => {
@@ -38,6 +38,7 @@ const activities_list =
     "Watching NetFlix",
     "Someone Trippin'",
     "Watching custom prefixes",
+     "Lunary made me",
     `Yay i'm on ${client.guilds.cache.size} Guilds`,
     ]; // creates an arraylist containing phrases you want your bot to switch through.
 
