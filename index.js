@@ -21,16 +21,6 @@ const db = require('quick.db')
 
 
 
-
-
-const SnakeGame = require('snakecord');
-
-const snakeGame = new SnakeGame({
-    title: 'Snake Game',
-    color: "GREEN",
-    timestamp: false,
-    gameOverTitle: "Game Over"
-});
 const fetch = require("node-fetch")
 
 const activities_list = 
