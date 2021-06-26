@@ -9,5 +9,5 @@ Open up your command terminal and run the following command:
 
 
 # More Sources:
-[Official Website](https://lunareclipse.glitch.me/)
+[Official Website](https://lunareclipse.glitch.me/),
 [Run on Replit](https://replit.com/github/LunaryEclipse/reaction-roles)
