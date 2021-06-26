@@ -17,3 +17,6 @@ Delete the .replit file and enter your token in client.login
 # More Sources:
 [Official Website](https://lunareclipse.glitch.me/),
 [Run on Replit](https://replit.com/github/LunaryEclipse/reaction-roles)
+
+## Help
+If you need any help just join the discord server!
